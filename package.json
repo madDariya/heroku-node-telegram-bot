@@ -14,7 +14,7 @@
     "cut": "^0.8.0",
     "dotenv": "^4.0.0",
     "eslint": "^5.16.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "git": "^0.1.5",
     "grep": "^0.1.0",
     "node-telegram-bot-api": "^0.30.0",
